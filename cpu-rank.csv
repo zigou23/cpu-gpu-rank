@@ -1,5 +1,5 @@
-from,https://tools.miku.ac/cpu_rank/,https://tools-api-cn.hazymoon.vip/cpu_rank,percentage,
-,name,score,percentage,
+from,https://tools.miku.ac/cpu_rank/,https://tools-api-cn.hazymoon.vip/cpu_rank,
+,name,score,percentage
 1,AMD EPYC 7763,87767,100
 2,AMD Ryzen Threadripper PRO 3995WX,86249,98
 3,AMD EPYC 7J13,86006,98
