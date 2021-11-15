@@ -1,4 +1,4 @@
-from,https://tools.miku.ac/gpu_rank/,https://tools-api-cn.hazymoon.vip/gpu_rank,,
+from,https://tools.miku.ac/gpu_rank/,https://tools-api-cn.hazymoon.vip/gpu_rank,
 ,name,score,percentage
 1,GeForce RTX 3080 Ti,26658,100
 2,GeForce RTX 3090,26005,98
